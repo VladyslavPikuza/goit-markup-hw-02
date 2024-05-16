@@ -91,6 +91,11 @@ font-family: "Raleway", sans-serif;
 
 background-color: #404bbf;
 }
+
+.hero-btn:hover,
+.hero-btn:focus {
+    color: #404bbf;
+}
 /* Section 2 */
 .benefits {}
 
