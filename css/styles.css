@@ -46,6 +46,11 @@ font-family: "Raleway", sans-serif;
         color: #2e2f42;
 }
 
+.header-list-link:hover,
+.header-list-link:focus {
+    color: #404bbf;
+}
+
 .adress {
     font-style: normal
 }
@@ -88,7 +93,6 @@ font-family: "Raleway", sans-serif;
 
 .button:hover,
 .button:focus {
-
 background-color: #404bbf;
 }
 
